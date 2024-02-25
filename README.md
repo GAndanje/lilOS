@@ -1,6 +1,6 @@
 # LilOS
 
-(c) Japheth Obala, 2019
+(c) Gilbert Andanje, 2019
 
 This is a small OS built for the purpose of learning OS concepts.
 
